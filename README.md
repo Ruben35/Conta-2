@@ -7,16 +7,16 @@
 Es un sitio web de apoyo para los estudiantes de la asignatura de Administración Financiera de la Escuela Superior de Cómputo, plan de estudio 2009, para ayudar al estudiante a reforzar los temas dentro de la asignatura.
 
 ## Contenido :bookmark_tabs:
-1. [Información sobre proyecto]()
-2. [Documentación]()
-3. [Autores & Créditos]()
+1. [Información sobre proyecto](https://github.com/Ruben35/Conta-2#informaci%C3%B3n-sobre-proyecto-globe_with_meridians)
+2. [Documentación](https://github.com/Ruben35/Conta-2#documentaci%C3%B3n-book)
+3. [Autores & Créditos](https://github.com/Ruben35/Conta-2#autores--cr%C3%A9ditos-trophy)
 4. [Licencia](https://github.com/Ruben35/Icons-unFold-Rainmeter#licencia-page_with_curl)
 
 ## Información sobre proyecto :globe_with_meridians:
- <P style="color: red"><b>TO-DO</b></P>
+ <div style="color: red"><b>TO-DO</b></div>
 
 ## Documentación :book:
- <P style="color: red"><b>TO-DO</b></P>
+ <div style="color: red"><b>TO-DO</b></div>
  
 ## Autores & Créditos :trophy:
 |Nombre| Usuario GitHub |
