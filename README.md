@@ -26,7 +26,7 @@ Es un sitio web de apoyo para los estudiantes de la asignatura de Administració
 |Contreras Mote Manuel Adrian|[Mani1831](https://github.com/Mani1831)|
 |Hernández Hernández Rubén|[Ruben35](https://github.com/Ruben35)
 |Juárez Alcantar Katia Fernanda|[kkitkkatk](https://github.com/kkitkkatk)
-|Luis Gerardo Sánchez Sánchez| [luisgdov1](https://github.com/luisgdov1)|
+|Sánchez Sánchez Luis Gerardo| [luisgdov1](https://github.com/luisgdov1)|
 
 ## Licencia :page_with_curl:
 Todo el contenido de este proyecto esta bajo la licencia de GNU General Public License v3.0 - ver archivo [LICENSE](https://github.com/Ruben35/Conta-2/blob/master/LICENSE) para más detalles.
