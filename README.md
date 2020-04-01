@@ -13,7 +13,7 @@ Es un sitio web de apoyo para los estudiantes de la asignatura de Administració
 4. [Licencia](https://github.com/Ruben35/Conta-2#licencia-page_with_curl)
 
 ## Información sobre proyecto :globe_with_meridians:
- Este sitio permite a los estudiantes generar una T de mayor y poder llenarla con diversos asientos contables y a partir de ahí, validar si se llenó de fora correcta y generar los diversos Estados Financieros que se desprenden de ahí.
+ Este sitio permite a los estudiantes generar una T de mayor y poder llenarla con diversos asientos contables y, a partir de ahí, validar si se llenó de forma correcta y generar los diversos Estados Financieros que se desprenden de ahí.
 
 ## Documentación :book:
  Toda la documentación y artefactos que se utilizaron para el desarrollo de **Conta-2** los puede encontrar en la [wiki](https://github.com/Ruben35/Conta-2/wiki) de este repositorio.
