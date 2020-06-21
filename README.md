@@ -20,7 +20,7 @@ Es un sitio web de apoyo para los estudiantes de la asignatura de Administració
  
 ## Autores & Créditos :trophy:
 |Nombre| Rol | Usuario GitHub |
-|---|---|
+|---|---|---|
 |Álvarez Garrido Ian Federico| Desarrollador |[IanAlvarez1](https://github.com/IanAlvarez1)|
 |Campos Ocampo Hugo Johan| Analista |[JohanCampos](https://github.com/JohanCampos)
 |Contreras Mote Manuel Adrian| Gerente |[Mani1831](https://github.com/Mani1831)|
